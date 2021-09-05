@@ -1,14 +1,16 @@
 # Hello! 
 
-My name is Glenn Yaniero and I'm a software developer/engineer.  You can reach me on [![LinkedIn][1.1]][1].
+My name is Glenn Yaniero and I'm a software developer/engineer.  You can reach me on Linkedin [![LinkedIn][1.1]][1].
  
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+## 🛠 Technologies & Tools
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-DotNet-informational?style=flat&logo=DotNet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-SQl%20Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
 [1.1]: https://raw.githubusercontent.com/GlennYaniero/GlennYaniero/master/linkedin-1-1.png (LinkedIn icon without padding)
 [1]: https://www.linkedin.com/in/glennyaniero/
