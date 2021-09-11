@@ -14,7 +14,22 @@ My name is Glenn Yaniero and I'm a software engineer.  I am currently programmin
 
 [1.1]: https://raw.githubusercontent.com/GlennYaniero/GlennYaniero/master/linkedin-1-1.png (LinkedIn icon without padding)
 [1]: https://www.linkedin.com/in/glennyaniero/
+
+---
+
+### Projects
+
+I 💕 making an impact and contribute to projects that benefit nonprofits I am passionate about.
+
+ ---
+
+
+
 <!---
 GlennYaniero/GlennYaniero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
