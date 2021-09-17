@@ -9,8 +9,7 @@ My name is Glenn Yaniero and I'm a software engineer.  I am currently programmin
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-SQl%20Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+
 
 [1.1]: https://raw.githubusercontent.com/GlennYaniero/GlennYaniero/master/linkedin-1-1.png (LinkedIn icon without padding)
 [1]: https://www.linkedin.com/in/glennyaniero/
@@ -20,7 +19,7 @@ My name is Glenn Yaniero and I'm a software engineer.  I am currently programmin
 ### Projects
 
 I 💕 making an impact and contribute to projects that benefit nonprofits I am passionate about.
-
+https://codepen.io/GY_GY_GY/pens/public  Enhancements to MHA America's pages
  ---
 
 
