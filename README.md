@@ -10,6 +10,7 @@ My name is Glenn Yaniero and my expertise is in software engineering, accessibil
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 
+and more.
 
 [1.1]: https://raw.githubusercontent.com/GlennYaniero/GlennYaniero/master/linkedin-1-1.png (LinkedIn icon without padding)
 [1]: https://www.linkedin.com/in/glennyaniero/
