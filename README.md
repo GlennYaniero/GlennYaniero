@@ -1,6 +1,6 @@
 # Hello! 
 
-My name is Glenn Yaniero and I'm a software engineer.  I am currently programming in C#, .NET, and React. In the past, I've worked with numerous technologies including Java, C++, VB, and PHP.  You can reach me on Linkedin [![LinkedIn][1.1]][1].
+My name is Glenn Yaniero and my expertise is in software engineering, accessibility, product design, and software quality.   You can reach me on Linkedin [![LinkedIn][1.1]][1].
  
 ## 🛠 Technologies & Tools
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=2bbc8a)
