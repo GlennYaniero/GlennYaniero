@@ -1,12 +1,13 @@
 # Hello! 
 
-My name is Glenn Yaniero and my expertise is in software engineering, accessibility, product design, and software quality.   You can reach me on Linkedin [![LinkedIn][1.1]][1].
+My name is Glenn Yaniero and my expertise is in software engineering, accessibility, product design, data science/AI, and software quality.   You can reach me on Linkedin [![LinkedIn][1.1]][1].
  
 ## 🛠 Technologies & Tools
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-DotNet-informational?style=flat&logo=DotNet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 
@@ -19,8 +20,9 @@ and more.
 
 ### Projects
 
-I 💕 making an impact and contribute to projects that benefit nonprofits I am passionate about.
+I 💕 making an impact and contribute to projects that benefit the world community.
 
+- Sensory Reflection: AI/ML Prototypes to explore Accessibility solutions
 - Enhancements to MHA America's pages:  https://codepen.io/GY_GY_GY/pens/public  
 - Emotional Toolkit:  https://codepen.io/GY_GY_GY/full/wvzMeWE
  ---
