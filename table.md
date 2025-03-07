@@ -4,7 +4,6 @@
 | 15five                      | [15five.com/careers](https://15five.com/careers) | 4.7                  |
 | Abnormal Security           | [abnormalsecurity.com/careers](https://abnormalsecurity.com/careers) | 4.8                  |
 | Adobe                       | [careers.adobe.com](https://careers.adobe.com)   | 4.4                  |
-| Affordmate                  | Not Found                                        | Not Found            |
 | Ahrefs                      | [ahrefs.com/careers](https://ahrefs.com/careers) | 4.5                  |
 | Akamai Technologies         | [akamai.com/careers](https://akamai.com/careers) | 4.1                  |
 | AlphaSights                 | [alphasights.com/careers](https://alphasights.com/careers) | 3.9                  |
@@ -53,15 +52,12 @@
 | DuckDuckGo                  | [duckduckgo.com/hiring](https://duckduckgo.com/hiring) | 4.3                  |
 | Electric                    | [electric.ai/careers](https://electric.ai/careers) | 4.1                  |
 | EveryoneSocial              | [everyonesocial.com/careers](https://everyonesocial.com/careers) | Not Found            |
-| Expert Thinking             | Not Found                                        | Not Found            |
 | Faire                       | [faire.com/careers](https://faire.com/careers)   | 4.3                  |
 | Firstbase                   | [firstbase.io/careers](https://firstbase.io/careers) | 4.9                  |
 | Float.com                   | [float.com/careers](https://float.com/careers)   | 4.7                  |
-| Funded.club                 | Not Found                                        | Not Found            |
 | G2                          | [g2.com/careers](https://g2.com/careers)         | 4.3                  |
 | GitHub                      | [github.com/careers](https://github.com/careers) | 4.7                  |
 | GitLab                      | [gitlab.com/careers](https://gitlab.com/careers) | 4.3                  |
-| Goinstacare                 | Not Found                                        | Not Found            |
 | Goldcast                    | [goldcast.io/careers](https://goldcast.io/careers) | 4.9                  |
 | Gong                        | [gong.io/careers](https://gong.io/careers)       | 4.7                  |
 | Groove                      | [groove.com/careers](https://groove.com/careers) | 4.5                  |
@@ -90,7 +86,6 @@
 | Mailbird                    | [mailbird.com/careers](https://mailbird.com/careers) | 4.0                  |
 | MailerLite                  | [mailerlite.com/careers](https://mailerlite.com/careers) | 4.7                  |
 | Mediavine                   | [mediavine.com/careers](https://mediavine.com/careers) | 4.8                  |
-| Mentorsity                  | Not Found                                        | Not Found            |
 | McGraw Hill                 | [mheducation.com/careers](https://mheducation.com/careers) | 3.9                  |
 | MissionWired                | [missionwired.com/careers](https://missionwired.com/careers) | 4.0                  |
 | MixMax                      | [mixmax.com/careers](https://mixmax.com/careers) | 4.7                  |
