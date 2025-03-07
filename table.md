@@ -12,7 +12,7 @@
 | Appen                       | [appen.com/careers](https://appen.com/careers)   | 2.7                  |
 | Apptio                      | [apptio.com/careers](https://apptio.com/careers) | 3.7                  |
 | Arkency                     | [arkency.com/careers](https://arkency.com/careers) | Not Found            |
-| Articulate                  | [articulate.com/careers](https://articulate.com/company/careers/) | 4.3                  |
+| Articulate                  | [articulate.com/careers](https://www.articulate.com/about/careers)) | 4.3                  |
 | Atlassian                   | [atlassian.com/careers](https://atlassian.com/company/careers) | 4.6                  |
 | Automattic                  | [automattic.com/work-with-us](https://automattic.com/work-with-us/) | 4.4                  |
 | Automox                     | [automox.com/careers](https://automox.com/careers) | 4.6                  |
@@ -64,7 +64,6 @@
 | GRIN                        | [grin.co/careers](https://grin.co/careers)       | 4.4                  |
 | Headspace                   | [headspace.com/careers](https://headspace.com/careers) | 4.1                  |
 | Help Scout                  | [helpscout.com/careers](https://helpscout.com/careers) | 4.6                  |
-| hims & hers                 | [forhims.com/careers](https://forhims.com/careers) | 4.2                  |
 | Honeycomb.io                | [honeycomb.io/careers](https://honeycomb.io/careers) | 4.6                  |
 | HubSpot                     | [hubspot.com/careers](https://hubspot.com/careers) | 4.6                  |
 | Hubstaff                    | [hubstaff.com/careers](https://hubstaff.com/careers) | 3.9                  |
